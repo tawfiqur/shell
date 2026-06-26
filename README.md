@@ -1,6 +1,10 @@
 # shell
 Webshell is a backdoor built with PHP. It can penetrate Firewall.
 
+upload backdoor.php file into your server & browse it from browser ex: https://example.com/backdoor.php
+Enjoy!!!
+CAUTION: rename backdoor.php with an unusual filename so hacker can't guess it. 
+
 Features
 
     Multiple File Upload
